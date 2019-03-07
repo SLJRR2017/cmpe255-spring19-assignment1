@@ -5,15 +5,19 @@ Correct predictions
 Review 18
 ('Actual Rating: ', 3)
 ('Predicted Rating:', 3)
+
 Review 22
 ('Actual Rating: ', 5)
 ('Predicted Rating:', 5)
+
 Review 900
 ('Actual Rating: ', 5)
 ('Predicted Rating:', 5)
+
 Review 6078
 ('Actual Rating: ', 5)
 ('Predicted Rating:', 5)
+
 Review 3546
 ('Actual Rating: ', 3)
 ('Predicted Rating:', 3)
@@ -22,15 +26,19 @@ False Predictions
 Review 2
 ('Actual Rating: ', 4)
 ('Predicted Rating:', 5)
+
 Review 16
 ('Actual Rating: ', 3)
 ('Predicted Rating:', 3)
+
 Review 1000
 ('Actual Rating: ', 4)
 ('Predicted Rating:', 3)
+
 Review 888
 ('Actual Rating: ', 4)
 ('Predicted Rating:', 5)
+
 Review 100
 ('Actual Rating: ', 4)
 ('Predicted Rating:', 5)
